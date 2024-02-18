@@ -1,0 +1,22 @@
+# Site settings
+title: María Nuria Peralta Moreno
+#logo: /assets/img/logo.png # The image of the site
+#description: Showcase your work and skills
+theme: jekyll-theme-not-pure-poole
+
+#show_downloads: true
+
+# GitHub Pages settings
+#remote_theme: jekyll/jekyll-theme-not-pure-poole
+#plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
+
+# Build settings
+#markdown: kramdown
+#permalink: /:title/
+#exclude:
+#  - Gemfile
+#  - Gemfile.lock
+#  - node_modules
+#  - vendor
